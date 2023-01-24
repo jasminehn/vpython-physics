@@ -1,0 +1,3 @@
+This program simulates the motion of a spacecraft in orbit around the Earth by updating the position, momentum, and force acting on the spacecraft in each iteration of a while loop, and it shows the trail of the spacecraft on the screen. The loop runs for 10 years at a rate of 1000 loops per second and if the distance between the spacecraft and the Earth is less than the radius of the Earth (aka it "crashes" into the Earth), the loop will break and the program will exit. This was an exercise to discover the escape velocity for the spacecraft.
+
+![image](https://user-images.githubusercontent.com/88569965/214212499-edbb7baf-93df-43f7-bd81-dbd0fe26ad83.png)
