@@ -1,2 +1,2 @@
-# :sparkler: VPython Physics
-This repo contains a collection of GlowScript physics simulation scripts written for Physics Workshop I (PH135L). You can run these scripts yourself either on [Glowscript](https://www.glowscript.org/) (use `Web VPython 3.2` at the top of the script) or on [Trinket](https://trinket.io/) (use `GlowScript 3.2 VPython` at the top of the script).
+# :sparkler: GlowScript Physics
+This repo contains a collection of GlowScript physics simulation scripts written for Physics Workshop I (PH135L), where we used VPython to model physical problems. You can run these scripts yourself either on [Glowscript](https://www.glowscript.org/) (use `Web VPython 3.2` at the top of the script) or on [Trinket](https://trinket.io/) (use `GlowScript 3.2 VPython` at the top of the script).
